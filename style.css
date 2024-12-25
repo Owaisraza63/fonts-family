@@ -1,0 +1,40 @@
+body{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px;
+
+}
+
+h1 {
+    font-family: "Poppins", serif;
+
+}
+
+.p-1{
+    font-family: "Roboto Condensed", serif;
+    font-weight: 600;
+
+}
+
+.p-2{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+}
+
+.p-3{
+    font-family: "Lobster", serif;
+
+}
+
+.p-4{
+    font-family: "Agu Display", serif;
+}
+
+.p-5{
+font-family: 'owais';
+}
+
+@font-face {
+    font-family: 'owais';
+    src: url(./fonts/Caveat/Caveat-VariableFont_wght.ttf);
+}
